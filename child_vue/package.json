@@ -1,8 +1,8 @@
 {
-  "name": "root",
+  "name": "child_vue",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite --host",
+    "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview"
   },
